@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/kntaka/monkey/repl"
+	"github.com/knwoop/monkey/repl"
 )
 
 func main() {

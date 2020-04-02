@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/kntaka/monkey/token"
+	"github.com/knwoop/monkey/token"
 )
 
 func TestNextToken(t *testing.T) {

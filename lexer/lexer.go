@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"github.com/kntaka/monkey/token"
+	"github.com/knwoop/monkey/token"
 )
 
 type Lexer struct {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/kntaka/monkey/lexer"
-	"github.com/kntaka/monkey/token"
+	"github.com/knwoop/monkey/lexer"
+	"github.com/knwoop/monkey/token"
 )
 
 const PROMPT = ">> "
